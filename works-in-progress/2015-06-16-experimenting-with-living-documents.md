@@ -21,3 +21,15 @@ This means I can use this take make apparent how in-progress, or how neglected, 
 If the history pane is fairly quiet, maybe that means I like it.
 If it's busy, you will know that I've been working on the topic lately.
 
+So there we go.
+That is my plan.
+For now I'll end on a couple notes.
+
+1. I never did this with my thesis, but apparently for version control it is good form to have one sentence per line.
+I'll give that a shot, but it's admittedly weird.
+
+2. I have a design issue to solve: figure out how to make the commit history pane visible, without it being obtrustive.
+I don't have any ideas yet, but that shouldn't be an excuse for me to not launch this.
+
+3. I'm going to split this post into a few commits.
+It's annoying, but will let me show some friends the kind of thing that I'm thinking about.
